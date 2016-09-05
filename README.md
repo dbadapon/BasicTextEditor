@@ -1,5 +1,5 @@
 # BasicTextEditor
-This was a project done in ICS 45C: C++ as a Second Programming Language. 
+This was a project done as part of the curriculum for ICS 45C: C++ as a Second Programming Language. 
 </br></br>
 <p>The text editor you'll be implementing in this project is called <b>BooEdit</b>.  It's a dramatically simplified version of an editor like <b>vim</b> or <b>emacs</b>, completely based around a textual interface that runs in a Linux shell window.  When running, BooEdit looks like this:</p>
 
