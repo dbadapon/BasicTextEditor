@@ -33,8 +33,8 @@ This was a project done in ICS 45C: C++ as a Second Programming Language.
 </ul>
 
 Supported Actions: Insert Character, Ctrl+I: Cursor U, Ctrl+K: Cursor Down, Ctrl+U: Cursor Left, Ctrl+O: Cursor Right, Ctrl+Y:	Cursor Home, Ctrl+P:	Cursor End, Ctrl+J & Ctrl+M: New Line, Ctrl+H: Backspace, Ctrl+D: Delete Line, Ctrl+Z: Undo, Ctrl+A: Redo, Ctrl+X: Quit/Exit.
-</br>
-The following files were given to start out with:
+</br></br>
+The following files were given to start out with. In the beginning, running the program shows a screen with no functionality.
 </br>
 
 <ul>
